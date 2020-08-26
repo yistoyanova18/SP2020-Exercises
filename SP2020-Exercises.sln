@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Last Digit Ultimate", "Last Digit Ultimate\Last Digit Ultimate.vcxproj", "{6FE51DD2-243A-47ED-850B-88EB6B3FACDF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eliminate Odd Numbers within an Array", "Eliminate Odd Numbers within an Array\Eliminate Odd Numbers within an Array.vcxproj", "{D0EF1067-95A3-4837-A769-727DB277A28C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{6FE51DD2-243A-47ED-850B-88EB6B3FACDF}.Release|x64.Build.0 = Release|x64
 		{6FE51DD2-243A-47ED-850B-88EB6B3FACDF}.Release|x86.ActiveCfg = Release|Win32
 		{6FE51DD2-243A-47ED-850B-88EB6B3FACDF}.Release|x86.Build.0 = Release|Win32
+		{D0EF1067-95A3-4837-A769-727DB277A28C}.Debug|x64.ActiveCfg = Debug|x64
+		{D0EF1067-95A3-4837-A769-727DB277A28C}.Debug|x64.Build.0 = Debug|x64
+		{D0EF1067-95A3-4837-A769-727DB277A28C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0EF1067-95A3-4837-A769-727DB277A28C}.Debug|x86.Build.0 = Debug|Win32
+		{D0EF1067-95A3-4837-A769-727DB277A28C}.Release|x64.ActiveCfg = Release|x64
+		{D0EF1067-95A3-4837-A769-727DB277A28C}.Release|x64.Build.0 = Release|x64
+		{D0EF1067-95A3-4837-A769-727DB277A28C}.Release|x86.ActiveCfg = Release|Win32
+		{D0EF1067-95A3-4837-A769-727DB277A28C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
