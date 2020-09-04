@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eliminate Odd Numbers withi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Factorial of a Non-Negative Integer", "Factorial of a Non-Negative Integer\Factorial of a Non-Negative Integer.vcxproj", "{B20F5519-2B4A-4A00-8F56-26062492BA6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array of Multiples", "Array of Multiples\Array of Multiples.vcxproj", "{705DA61B-7681-4D76-9BDF-333842327CA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{B20F5519-2B4A-4A00-8F56-26062492BA6C}.Release|x64.Build.0 = Release|x64
 		{B20F5519-2B4A-4A00-8F56-26062492BA6C}.Release|x86.ActiveCfg = Release|Win32
 		{B20F5519-2B4A-4A00-8F56-26062492BA6C}.Release|x86.Build.0 = Release|Win32
+		{705DA61B-7681-4D76-9BDF-333842327CA1}.Debug|x64.ActiveCfg = Debug|x64
+		{705DA61B-7681-4D76-9BDF-333842327CA1}.Debug|x64.Build.0 = Debug|x64
+		{705DA61B-7681-4D76-9BDF-333842327CA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{705DA61B-7681-4D76-9BDF-333842327CA1}.Debug|x86.Build.0 = Debug|Win32
+		{705DA61B-7681-4D76-9BDF-333842327CA1}.Release|x64.ActiveCfg = Release|x64
+		{705DA61B-7681-4D76-9BDF-333842327CA1}.Release|x64.Build.0 = Release|x64
+		{705DA61B-7681-4D76-9BDF-333842327CA1}.Release|x86.ActiveCfg = Release|Win32
+		{705DA61B-7681-4D76-9BDF-333842327CA1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
